@@ -1,2 +1,0 @@
-# aslanasylbek
-Software engineering
